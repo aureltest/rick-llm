@@ -1,0 +1,12 @@
+.env
+.claude/
+dataset_cache/
+output/
+lora_adapter/
+merged_model/
+unsloth_compiled_cache/
+wandb/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Aurel-test/
